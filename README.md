@@ -35,6 +35,14 @@ mkdir backend/db/
 vi backend/db/connectToMongoDB.js
 mkdir backend/models/
 vi backend/models/user.model.js
+mkdir backend/utils/
+vi backend/utils/generateToken.js
+vi .env:JWT_SECRET
+openssl rand -base64 32
+# XSS cross-site scripting vulnerability, CSRF protection
+vi .env:NODE_ENV=development
+
+
 
 
 
