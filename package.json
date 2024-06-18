@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-          "server": "nodemon backend/server.js"
+          "server": "nodemon backend/server.js",
           "start": "node backend/server.js",
           "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
   },
@@ -20,7 +20,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.4.1",
     "socket.io": "^4.2.0"
-  }
+  },
   "devDependencies": {
           "nodemon": "^3.0.3"
   }
