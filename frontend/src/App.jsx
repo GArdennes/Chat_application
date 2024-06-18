@@ -28,8 +28,9 @@ function App() {
       `}
     </css-doodle>
     <div className='p-4 h-screen flex items-center justify-center'>
-        {/*<SignUp/>*/}
-        <Home/>
+        {/* <SignUp/> */}
+        {/* <Home/> */}
+        <Login/>
     </div>
       </>
     
