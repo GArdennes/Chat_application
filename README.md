@@ -6,10 +6,10 @@ Welcome to Banter chat application repository. This is an innovative real-time c
 ## Project Information
 ------------------------
 * Motivation: During our specialization track in the ALx Software Developer program, we got a glimpse of different web stacks but didn’t get much hands-on experience with them. We were really interested in learning JavaScript frameworks like React, Node.js, and Express.js. So, we decided to team up and create this application to give ourselves that chance.
-* Deployed site: (Banter Application)[https://banter-chats.onrender.com/]
+* Deployed site: [Banter Application](https://banter-chats.onrender.com/)
 * Authors LinkedIn:
-  * (Kevin)[https://www.linkedin.com/in/kevin-afachao-397974125/]
-  * (Soufiane)[https://www.linkedin.com/in/soufiane-idboubker/]
+  * [Kevin](https://www.linkedin.com/in/kevin-afachao-397974125/)
+  * [Soufiane](https://www.linkedin.com/in/soufiane-idboubker/)
  
 ### Features
 -------------------------
@@ -18,7 +18,7 @@ Welcome to Banter chat application repository. This is an innovative real-time c
 
 ## Getting Started
 -----------------------
-1. Visit the deployed Banter Application: (Banter Application)[https://banter-chats.onrender.com/]
+1. Visit the deployed Banter Application: [Banter Application](https://banter-chats.onrender.com/)
 2. Sign up or log in to create your account.
 3. Invite your friends and start chatting!
 
